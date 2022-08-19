@@ -38,12 +38,11 @@ ul li a {
 
 ul li a:hover{
     color: pink;
-    text-transform: uppercase;
 }
 
 footer {
     padding: 20px;
-    background-color: rgb(26, 26, 26);
+    background-color: rgb(48, 22, 43);
     border-top: 2px solid pink;
     margin-top: 20px;
 }
