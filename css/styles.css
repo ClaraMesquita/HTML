@@ -40,6 +40,11 @@ ul li a:hover{
     color: pink;
 }
 
+section a img{
+    width: 800px;
+    border: 1px solid lightskyblue;
+}
+
 footer {
     padding: 20px;
     background-color: rgb(48, 22, 43);
